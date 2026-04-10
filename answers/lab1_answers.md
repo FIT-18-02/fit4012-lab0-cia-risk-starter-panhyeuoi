@@ -23,7 +23,7 @@
 - Mitigation: Cài đặt xác thực đa yếu tố (MFA) và phân quyền chặt chẽ
 
 ## 4. Reflection
-Thông qua bài Lab 01 này, em đã hiểu rõ hơn về mô hình CIA và cách phân tích rủi ro dựa trên từng thành phần. Việc thực hành giúp em biết cách xác định tài sản, mối đe dọa, điểm yếu và biện pháp giảm thiểu một cách hệ thống. Bên cạnh đó, em cũng cải thiện kỹ năng sử dụng Git và GitHub khi phải xử lý lỗi và quen dần với quy trình commit, push và kiểm tra bài nộp. Đây là trải nghiệm hữu ích giúp em làm việc cẩn thận hơn và có tư duy phân tích rõ ràng hơn.
+Điều em học được từ bài lab: Thông qua bài Lab 01 này, em đã hiểu rõ hơn về mô hình CIA, cách phân tích rủi ro và rèn luyện kỹ năng GitHub. Việc thực hành giúp em quen với commit, push và xử lý lỗi, giúp em tự tin hơn trong các bài lab sau.
 
 ## 5. Bonus Flag
 Flag của em: FIT4012{A-C-B-I-C-A}
